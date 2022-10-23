@@ -1,0 +1,79 @@
+body {
+    margin: 0;
+    margin-top: -25px;
+    padding: 0;
+    text-align: center;
+}
+
+.top {
+    background-color: #34D399;
+    color: white;
+}
+
+h1 {
+    padding-top: 25px;
+    font-size: 30px;
+}
+
+.NumConverter {
+    background-color: #34D399;
+    color: white;
+    border: 1px solid #A7F3D0;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    width: 70px;
+    height: 50px;
+    
+}
+
+#btn {
+    background-color: white;
+    margin-bottom: 20px;
+    padding: 5px 10px;
+    border: 0px;
+    border-radius: 5px;
+}
+
+.bottom {
+    background-color: #F4F4F4;
+    padding: 15px;
+}
+
+#length {
+    width: 400px;
+    height: 100px;   
+    position: relative;
+    left: 60px;
+    z-index: 1;
+    background: #FFFFFF;
+    margin-top: 3px;
+    border-radius: 5px;
+    padding-top: 5px;
+    color: #059669;
+}
+
+#volume {
+    width: 400px;
+    height: 100px;   
+    position: relative;
+    left: 60px;
+    z-index: 1;
+    background: #FFFFFF;
+    margin-top: 20px;
+    border-radius: 5px;
+    padding-top: 5px;
+    color: #059669;
+}
+
+#mass {
+    width: 400px;
+    height: 100px;   
+    position: relative;
+    left: 60px;
+    z-index: 1;
+    background: #FFFFFF;
+    margin-top: 20px;
+    border-radius: 5px;
+    padding-top: 5px;
+    color: #059669;
+}
